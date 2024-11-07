@@ -4,3 +4,4 @@ Project Overview:-
 • Built custom reporting systems for decision-making, helping track performance and identify areas for strategic growth.
 • Provided actionable insights into sales patterns, order fluctuations, and customer demographics, enabling businesses to enhance their sales strategies.
 • Ensured the platform offers user-friendly navigation, focusing on key performance indicators that align with business goals.
+![image](https://github.com/user-attachments/assets/d4899237-642e-4b37-8908-4b31a2792f71)
